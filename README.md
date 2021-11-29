@@ -1,2 +1,2 @@
-# Ashik-Patel.github.io
-Portfolio
+# ashikpatel.in
+ Personal Blog 
